@@ -6,7 +6,7 @@ You can change API_URL in .env file. Generate own ulr from https://opentdb.com/a
 
 ## Online:
 
-grzeslawski.github.io/quizzical-app/
+https://grzeslawski.github.io/Quizzical-app/
 
 ## Available Scripts
 
