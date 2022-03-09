@@ -1,4 +1,4 @@
-# Getting Started with Quizzical App
+# Getting Started with Quizzical App in React
 
 Quiz with questions from open trivia database https://opentdb.com
 
