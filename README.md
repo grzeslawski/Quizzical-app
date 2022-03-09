@@ -2,7 +2,7 @@
 
 Quiz with questions from open trivia database https://opentdb.com
 
-You can change API_URL in .env file. Generate own ulr from https://opentdb.com/api_config.php with other category or other difficulty.
+You can change API_URL in .env file. Generate own url from https://opentdb.com/api_config.php with other category or other difficulty.
 
 ## Online:
 
